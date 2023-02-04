@@ -1,3 +1,4 @@
 line
 line2
 new branch line
+conflict branch
